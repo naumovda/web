@@ -1,0 +1,9 @@
+.box {
+    background-color: #dedef8;
+    box-shadow: inset 1px -1px 1px #444, inset -1px 1px 1px #444;
+}
+
+.box1 {
+    background-color: #B18904;
+    box-shadow: inset 1px -1px 1px #444, inset -1px 1px 1px #444;
+}

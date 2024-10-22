@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\examples",
+    "\\examples\\ex02",
+    "\\examples\\ex03 - bootstrap",
+    "\\examples\\ex03 - bootstrap\\css",
+    "\\examples\\ex03 - bootstrap\\js"
   ],
+  "SelectedNode": "\\examples\\ex03 - bootstrap\\ex09 - responsive utilites.html",
   "PreviewInSolutionExplorer": false
 }
