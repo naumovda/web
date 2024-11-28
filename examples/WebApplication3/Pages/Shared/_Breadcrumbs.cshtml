@@ -1,0 +1,20 @@
+﻿@model Tuple<List<string>, bool>
+
+@{
+    var list = Model.Item1;
+    var is_active = Model.Item2;
+}
+
+<ul>
+    @foreach(var item in list)
+    {
+        if (item == list.Last() && !is_active)
+        {
+            <li>@item</li>
+        }
+        else
+        {
+            <li><a href="#">@item</a></li>
+        }
+    }
+</ul>
