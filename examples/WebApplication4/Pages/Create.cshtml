@@ -1,0 +1,21 @@
+﻿@page
+
+@using WebApplication3.Models
+
+@model WebApplication3.Pages.CreateModel
+
+<h2>Добавление нового пользователя</h2>
+
+<form method="post">
+    <p>
+        <label>Имя</label><br />
+        <input name="Name" />
+    </p>
+    <p>
+        <label>Возраст:</label><br />
+        <input name="Age" type="number" />
+    </p>
+
+    <input type="submit" value="Отправить" />
+</form>
+
