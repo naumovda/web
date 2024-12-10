@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "C:\\Work\\git\\web\\projects\\journal\\StudyJournal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{517FFBD7-5C90-499E-8AE1-73BF9DBB17DB}|StudyJournal.csproj|c:\\work\\git\\web\\projects\\journal\\studyjournal\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{517FFBD7-5C90-499E-8AE1-73BF9DBB17DB}|StudyJournal.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{517FFBD7-5C90-499E-8AE1-73BF9DBB17DB}|StudyJournal.csproj|c:\\work\\git\\web\\projects\\journal\\studyjournal\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{517FFBD7-5C90-499E-8AE1-73BF9DBB17DB}|StudyJournal.csproj|solutionrelative:pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{517FFBD7-5C90-499E-8AE1-73BF9DBB17DB}|StudyJournal.csproj|c:\\work\\git\\web\\projects\\journal\\studyjournal\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{517FFBD7-5C90-499E-8AE1-73BF9DBB17DB}|StudyJournal.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{517FFBD7-5C90-499E-8AE1-73BF9DBB17DB}|StudyJournal.csproj|c:\\work\\git\\web\\projects\\journal\\studyjournal\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{517FFBD7-5C90-499E-8AE1-73BF9DBB17DB}|StudyJournal.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{517FFBD7-5C90-499E-8AE1-73BF9DBB17DB}|StudyJournal.csproj|c:\\work\\git\\web\\projects\\journal\\studyjournal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{517FFBD7-5C90-499E-8AE1-73BF9DBB17DB}|StudyJournal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{517FFBD7-5C90-499E-8AE1-73BF9DBB17DB}|StudyJournal.csproj|c:\\work\\git\\web\\projects\\journal\\studyjournal\\models\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{517FFBD7-5C90-499E-8AE1-73BF9DBB17DB}|StudyJournal.csproj|solutionrelative:models\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{517FFBD7-5C90-499E-8AE1-73BF9DBB17DB}|StudyJournal.csproj|c:\\work\\git\\web\\projects\\journal\\studyjournal\\pages\\culture.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517FFBD7-5C90-499E-8AE1-73BF9DBB17DB}|StudyJournal.csproj|solutionrelative:pages\\culture.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{517FFBD7-5C90-499E-8AE1-73BF9DBB17DB}|StudyJournal.csproj|c:\\work\\git\\web\\projects\\journal\\studyjournal\\models\\discipline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{517FFBD7-5C90-499E-8AE1-73BF9DBB17DB}|StudyJournal.csproj|solutionrelative:models\\discipline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{517FFBD7-5C90-499E-8AE1-73BF9DBB17DB}|StudyJournal.csproj|c:\\work\\git\\web\\projects\\journal\\studyjournal\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517FFBD7-5C90-499E-8AE1-73BF9DBB17DB}|StudyJournal.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{517FFBD7-5C90-499E-8AE1-73BF9DBB17DB}|StudyJournal.csproj|c:\\work\\git\\web\\projects\\journal\\studyjournal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{517FFBD7-5C90-499E-8AE1-73BF9DBB17DB}|StudyJournal.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{517FFBD7-5C90-499E-8AE1-73BF9DBB17DB}|StudyJournal.csproj|c:\\work\\git\\web\\projects\\journal\\studyjournal\\resources\\pages.index.en.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{517FFBD7-5C90-499E-8AE1-73BF9DBB17DB}|StudyJournal.csproj|solutionrelative:resources\\pages.index.en.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517FFBD7-5C90-499E-8AE1-73BF9DBB17DB}|StudyJournal.csproj|c:\\work\\git\\web\\projects\\journal\\studyjournal\\resources\\pages.index.ru.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{517FFBD7-5C90-499E-8AE1-73BF9DBB17DB}|StudyJournal.csproj|solutionrelative:resources\\pages.index.ru.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517FFBD7-5C90-499E-8AE1-73BF9DBB17DB}|StudyJournal.csproj|c:\\work\\git\\web\\projects\\journal\\studyjournal\\pages\\culture.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{517FFBD7-5C90-499E-8AE1-73BF9DBB17DB}|StudyJournal.csproj|solutionrelative:pages\\culture.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -215,27 +223,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Work\\git\\web\\projects\\journal\\StudyJournal\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
-              "ToolTip": "C:\\Work\\git\\web\\projects\\journal\\StudyJournal\\Pages\\Index.cshtml",
-              "RelativeToolTip": "Pages\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Work\\git\\web\\projects\\journal\\StudyJournal\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Work\\git\\web\\projects\\journal\\StudyJournal\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-15T07:34:02.674Z",
+              "WhenOpened": "2024-12-10T05:06:47.974Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Work\\git\\web\\projects\\journal\\StudyJournal\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Work\\git\\web\\projects\\journal\\StudyJournal\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-15T07:32:41.306Z"
+              "DocumentIndex": 6,
+              "Title": "Pages.Index.ru.resx",
+              "DocumentMoniker": "C:\\Work\\git\\web\\projects\\journal\\StudyJournal\\Resources\\Pages.Index.ru.resx",
+              "RelativeDocumentMoniker": "Resources\\Pages.Index.ru.resx",
+              "ToolTip": "C:\\Work\\git\\web\\projects\\journal\\StudyJournal\\Resources\\Pages.Index.ru.resx",
+              "RelativeToolTip": "Resources\\Pages.Index.ru.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-12-10T04:48:37.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Work\\git\\web\\projects\\journal\\StudyJournal\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Work\\git\\web\\projects\\journal\\StudyJournal\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T04:43:44.121Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -245,45 +266,61 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Work\\git\\web\\projects\\journal\\StudyJournal\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "ViewState": "AQIAACMAAAAAAAAAAAAiwDsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T07:28:20.973Z"
+              "WhenOpened": "2024-12-10T04:42:15.985Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Work\\git\\web\\projects\\journal\\StudyJournal\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Work\\git\\web\\projects\\journal\\StudyJournal\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABLAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-15T07:27:44.605Z"
+              "Title": "Pages.Index.en.resx",
+              "DocumentMoniker": "C:\\Work\\git\\web\\projects\\journal\\StudyJournal\\Resources\\Pages.Index.en.resx",
+              "RelativeDocumentMoniker": "Resources\\Pages.Index.en.resx",
+              "ToolTip": "C:\\Work\\git\\web\\projects\\journal\\StudyJournal\\Resources\\Pages.Index.en.resx",
+              "RelativeToolTip": "Resources\\Pages.Index.en.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-12-10T04:38:29.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Culture.cshtml",
+              "DocumentMoniker": "C:\\Work\\git\\web\\projects\\journal\\StudyJournal\\Pages\\Culture.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Culture.cshtml",
+              "ToolTip": "C:\\Work\\git\\web\\projects\\journal\\StudyJournal\\Pages\\Culture.cshtml",
+              "RelativeToolTip": "Pages\\Culture.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T04:36:51.915Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ApplicationContext.cs",
-              "DocumentMoniker": "C:\\Work\\git\\web\\projects\\journal\\StudyJournal\\Models\\ApplicationContext.cs",
-              "RelativeDocumentMoniker": "Models\\ApplicationContext.cs",
-              "ToolTip": "C:\\Work\\git\\web\\projects\\journal\\StudyJournal\\Models\\ApplicationContext.cs",
-              "RelativeToolTip": "Models\\ApplicationContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Title": "Culture.cshtml.cs",
+              "DocumentMoniker": "C:\\Work\\git\\web\\projects\\journal\\StudyJournal\\Pages\\Culture.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Culture.cshtml.cs",
+              "ToolTip": "C:\\Work\\git\\web\\projects\\journal\\StudyJournal\\Pages\\Culture.cshtml.cs",
+              "RelativeToolTip": "Pages\\Culture.cshtml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowDYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T07:26:12.044Z"
+              "WhenOpened": "2024-12-10T04:35:41.381Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Discipline.cs",
-              "DocumentMoniker": "C:\\Work\\git\\web\\projects\\journal\\StudyJournal\\Models\\Discipline.cs",
-              "RelativeDocumentMoniker": "Models\\Discipline.cs",
-              "ToolTip": "C:\\Work\\git\\web\\projects\\journal\\StudyJournal\\Models\\Discipline.cs",
-              "RelativeToolTip": "Models\\Discipline.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T07:21:24.413Z"
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Work\\git\\web\\projects\\journal\\StudyJournal\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Work\\git\\web\\projects\\journal\\StudyJournal\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T07:34:02.674Z",
+              "EditorCaption": ""
             }
           ]
         },
