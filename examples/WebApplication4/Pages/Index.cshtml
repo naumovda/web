@@ -1,0 +1,126 @@
+﻿@page
+
+@model IndexModel
+
+@{
+    ViewData["Title"] = "Home page";
+
+    var bc = new List<string>();
+    bc.Add("Главная");
+
+    var model = new Tuple<List<string>, bool>(bc, true);
+}
+
+@{
+    string morning = "Good Morning";
+    string evening = "Good Evening";
+    string hello = "Hello";
+    int hour = DateTime.Now.Hour;
+}
+
+<partial name="_Breadcrumbs" model=model />
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    
+    <h2>Time: @DateTime.Now</h2>
+    <h2>Time: @(50 + 20)</h2>
+    
+    @if (hour < 12)
+    {
+        <h2>@morning</h2>
+    }
+    else if (hour >= 16)
+    {
+        <h2>@evening</h2>
+    }
+    else
+    {
+        <h2>@hello</h2>
+    }
+
+    @{
+        string language = "german";
+    }
+
+    @switch (language)
+    {
+        case "russian":
+            <h3>Привет мир!</h3>
+            break;
+        case "german":
+            <h3>Hallo Welt!</h3>
+            break;
+        default:
+            <h3>Hello World!</h3>
+            break;
+    }
+</div>
+
+@{
+    //string test = "32.1";
+    //string test = (Int32.MaxValue + (Int64)1).ToString();
+    string? test = null;
+
+    int v;
+
+    try
+    {
+        v = int.Parse(test);
+
+        <p>@v</p>
+    }
+    catch(ArgumentNullException)
+    {
+        <p>Error converting null value</p>
+    }
+    catch (FormatException)
+    {
+        <p>Error format in value @test</p>
+    }
+    catch (OverflowException)
+    {
+        <p>Overflow in value @test</p>
+    }
+}
+
+<h2>Список пользователей</h2>
+
+<p>
+    <a href="/Create">Добавить пользователя</a>
+</p>
+
+<table>
+    <tr><th>Имя</th><th>Возраст</th></tr>
+
+    @{
+        foreach (var user in Model.Users)
+        {
+            <tr><td>@user.Name</td><td>@user.Age</td></tr>
+        }
+    }
+</table>
+
+<a asp-page="/User" asp-page-handler="Find" asp-route-id="4" class="btn">Отправить id=4</a>
+
+<p>GET FORM</p>
+<form method="get" asp-page="/User">
+    <input type="text" name="id" placeholder="Введите код"/>
+    <input type="hidden" name="handler" value="Find"/>
+    <input type="submit" class="btn" />
+</form> 
+
+<p>POST FORM</p>
+<form method="post" asp-page="/User" asp-page-handler="Find">
+    <input type="text" name="id" placeholder="Введите код"/>
+    <input type="submit" class="btn" />
+</form> 
+
+<p>GET FORM</p>
+<form method="get" asp-page="/User">
+    <input type="text" name="name" placeholder="Введите имя"/>
+    <input type="text" name="agestart" value=0>
+    <input type="text" name="ageend" value=9999>
+    <input type="submit" class="btn" />
+</form> 

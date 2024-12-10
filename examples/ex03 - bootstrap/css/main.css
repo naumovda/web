@@ -7,3 +7,15 @@
     background-color: #B18904;
     box-shadow: inset 1px -1px 1px #444, inset -1px 1px 1px #444;
 }
+
+.fill {
+    min-height: 100vh;
+}
+
+html, body {
+    height: 100%;
+}
+
+.min-100 {
+    min-height: 100%;
+}

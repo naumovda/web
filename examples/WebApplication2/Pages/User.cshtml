@@ -1,0 +1,215 @@
+<<<<<<< HEAD
+﻿@page
+
+@model WebApplication3.Pages.UserModel
+
+<p @(Model.HideFilter?"hidden":"") >
+<p @(Model.HideName ? "hidden" : "")> Search user by: name = @Model.Input.Name</p>
+<p @(Model.HideAge ? "hidden" : "")> Search user by: age = @Model.Input.AgeStart .. @Model.Input.AgeEnd</p>
+</p>
+
+<div class="row">
+    <div class="col">
+        <table>
+            <tr>
+                <th>#</th>
+                <th>Пользователь</th>
+                <th>Возраст</th>
+            </tr>
+            @{
+                foreach (var u in Model.UserList)
+                {
+                    <tr>
+                        <td>@u.Id</td>
+                        <td>@u.Name</td>
+                        <td>@u.Age</td>
+                    </tr>
+                }
+            }
+        </table>
+
+        @{
+            var data = new Dictionary<string, string>();
+            data["name"] = Model.Input.Name; 
+            data["agestart"] = Model.Input.AgeStart.ToString();
+            data["ageend"] = Model.Input.AgeEnd.ToString();
+        }
+
+        <ul class="pagination ">
+            @{
+                data["currentpage"] = (Model.Input.CurrentPage - 1).ToString();
+            }
+            <li class="page-item @(Model.DisablePrev?"disabled":"")">
+                <a class="page-link" asp-all-route-data="@data" aria-disabled="@(Model.DisablePrev)">
+                    &lt;
+                </a>
+            </li>
+
+            @for(int i=Model.FirstPage; i<Model.LastPage; i++)
+            {
+                data["currentpage"] = i.ToString();
+                
+                <li class="page-item @(i==Model.Input.CurrentPage?"active":"")">
+                    <a class="page-link" asp-all-route-data="@data">@(i + 1)</a>
+                </li>
+            }
+
+            <li class="page-item @(Model.DisableNext ? "disabled" : "")">
+                @{
+                    data["currentpage"] = (Model.Input.CurrentPage + 1).ToString();
+                }
+                <a class="page-link" asp-all-route-data="@data" all-data aria-disabled="@(Model.DisableNext)">
+                    &gt;
+                </a>
+            </li>
+        </ul>
+    </div>
+    <div class="col">
+        <div class="card">
+            <div class="card-header">Поиск</div>
+            <div class="card-body">
+                <form method="get">
+                    <label class="form-label">Имя</label>
+                    <input class="form-control" type="text" name="name" value="@Model.Input.Name"/>
+                    <label class="form-label">Возраст с</label>
+                    <input class="form-control" type="text" name="ageStart" value="@(Model.Input.AgeStart==UserModel.MIN_AGE?"":@Model.Input.AgeStart)" />
+                    <label class="form-label">по</label>
+                    <input class="form-control" type="text" name="ageEnd" value="@(Model.Input.AgeEnd==UserModel.MAX_AGE?"":@Model.Input.AgeEnd)" />
+                    <input type="submit" class="btn btn-primary mt-2 w-100" value="Найти"/>
+                </form>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-header">Сортировка</div>
+            <div class="card-body">
+                <form method="get">
+                    <label class="form-label">Сортировать по полю</label>
+                    <select class="form-control" name="sortby">
+                        <option value="0">Номер</option>
+                        <option value="1">Имя</option>
+                        <option value="2">Возраст</option>
+                    </select>
+                    <label class="form-label">Сортировать</label>
+                    <label class="form-check">
+                        <input class="form-check-input" type="radio" name="sortasc" value="true" >
+                        <span class="form-check-label">по возрастанию</span>
+                    </label>
+                    <label class="form-check">
+                        <input class="form-check-input" type="radio" name="sortasc" value="false" >
+                        <span class="form-check-label">по убыванию</span>
+                    </label>
+                    <input type="submit" class="btn btn-primary mt-2 w-100" value="Применить" />
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+=======
+﻿@page
+
+@model WebApplication3.Pages.UserModel
+
+<p @(Model.HideFilter?"hidden":"") >
+<p @(Model.HideName ? "hidden" : "")> Search user by: name = @Model.Input.Name</p>
+<p @(Model.HideAge ? "hidden" : "")> Search user by: age = @Model.Input.AgeStart .. @Model.Input.AgeEnd</p>
+</p>
+
+<div class="row">
+    <div class="col">
+        <table>
+            <tr>
+                <th>#</th>
+                <th>Пользователь</th>
+                <th>Возраст</th>
+            </tr>
+            @{
+                foreach (var u in Model.UserList)
+                {
+                    <tr>
+                        <td>@u.Id</td>
+                        <td>@u.Name</td>
+                        <td>@u.Age</td>
+                    </tr>
+                }
+            }
+        </table>
+
+        @{
+            var data = new Dictionary<string, string>();
+            data["name"] = Model.Input.Name; 
+            data["agestart"] = Model.Input.AgeStart.ToString();
+            data["ageend"] = Model.Input.AgeEnd.ToString();
+        }
+
+        <ul class="pagination ">
+            @{
+                data["currentpage"] = (Model.Input.CurrentPage - 1).ToString();
+            }
+            <li class="page-item @(Model.DisablePrev?"disabled":"")">
+                <a class="page-link" asp-all-route-data="@data" aria-disabled="@(Model.DisablePrev)">
+                    &lt;
+                </a>
+            </li>
+
+            @for(int i=Model.FirstPage; i<Model.LastPage; i++)
+            {
+                data["currentpage"] = i.ToString();
+                
+                <li class="page-item @(i==Model.Input.CurrentPage?"active":"")">
+                    <a class="page-link" asp-all-route-data="@data">@(i + 1)</a>
+                </li>
+            }
+
+            <li class="page-item @(Model.DisableNext ? "disabled" : "")">
+                @{
+                    data["currentpage"] = (Model.Input.CurrentPage + 1).ToString();
+                }
+                <a class="page-link" asp-all-route-data="@data" all-data aria-disabled="@(Model.DisableNext)">
+                    &gt;
+                </a>
+            </li>
+        </ul>
+    </div>
+    <div class="col">
+        <div class="card">
+            <div class="card-header">Поиск</div>
+            <div class="card-body">
+                <form method="get">
+                    <label class="form-label">Имя</label>
+                    <input class="form-control" type="text" name="name" value="@Model.Input.Name"/>
+                    <label class="form-label">Возраст с</label>
+                    <input class="form-control" type="text" name="ageStart" value="@(Model.Input.AgeStart==UserModel.MIN_AGE?"":@Model.Input.AgeStart)" />
+                    <label class="form-label">по</label>
+                    <input class="form-control" type="text" name="ageEnd" value="@(Model.Input.AgeEnd==UserModel.MAX_AGE?"":@Model.Input.AgeEnd)" />
+                    <input type="submit" class="btn btn-primary mt-2 w-100" value="Найти"/>
+                </form>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-header">Сортировка</div>
+            <div class="card-body">
+                <form method="get">
+                    <label class="form-label">Сортировать по полю</label>
+                    <select class="form-control" name="sortby">
+                        <option value="0">Номер</option>
+                        <option value="1">Имя</option>
+                        <option value="2">Возраст</option>
+                    </select>
+                    <label class="form-label">Сортировать</label>
+                    <label class="form-check">
+                        <input class="form-check-input" type="radio" name="sortasc" value="true" >
+                        <span class="form-check-label">по возрастанию</span>
+                    </label>
+                    <label class="form-check">
+                        <input class="form-check-input" type="radio" name="sortasc" value="false" >
+                        <span class="form-check-label">по убыванию</span>
+                    </label>
+                    <input type="submit" class="btn btn-primary mt-2 w-100" value="Применить" />
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+>>>>>>> d05455dd19aae7050710ca60caa526629780a968
