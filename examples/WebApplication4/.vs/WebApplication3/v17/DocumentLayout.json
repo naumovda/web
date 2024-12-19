@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lonly\\source\\repos\\WebApplication4\\",
+  "WorkspaceRootPath": "C:\\Work\\git\\web\\examples\\WebApplication4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{84496903-2D52-44C1-B9CD-76A16D4FA055}|WebApplication3.csproj|c:\\users\\lonly\\source\\repos\\webapplication4\\pages\\user.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{84496903-2D52-44C1-B9CD-76A16D4FA055}|WebApplication3.csproj|c:\\work\\git\\web\\examples\\webapplication4\\pages\\user.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84496903-2D52-44C1-B9CD-76A16D4FA055}|WebApplication3.csproj|solutionrelative:pages\\user.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84496903-2D52-44C1-B9CD-76A16D4FA055}|WebApplication3.csproj|c:\\users\\lonly\\source\\repos\\webapplication4\\pages\\_userdeletemodal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{84496903-2D52-44C1-B9CD-76A16D4FA055}|WebApplication3.csproj|c:\\work\\git\\web\\examples\\webapplication4\\pages\\_userdeletemodal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{84496903-2D52-44C1-B9CD-76A16D4FA055}|WebApplication3.csproj|solutionrelative:pages\\_userdeletemodal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84496903-2D52-44C1-B9CD-76A16D4FA055}|WebApplication3.csproj|c:\\users\\lonly\\source\\repos\\webapplication4\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{84496903-2D52-44C1-B9CD-76A16D4FA055}|WebApplication3.csproj|c:\\work\\git\\web\\examples\\webapplication4\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{84496903-2D52-44C1-B9CD-76A16D4FA055}|WebApplication3.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84496903-2D52-44C1-B9CD-76A16D4FA055}|WebApplication3.csproj|c:\\users\\lonly\\source\\repos\\webapplication4\\pages\\user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{84496903-2D52-44C1-B9CD-76A16D4FA055}|WebApplication3.csproj|c:\\work\\git\\web\\examples\\webapplication4\\pages\\user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{84496903-2D52-44C1-B9CD-76A16D4FA055}|WebApplication3.csproj|solutionrelative:pages\\user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84496903-2D52-44C1-B9CD-76A16D4FA055}|WebApplication3.csproj|c:\\users\\lonly\\source\\repos\\webapplication4\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{84496903-2D52-44C1-B9CD-76A16D4FA055}|WebApplication3.csproj|c:\\work\\git\\web\\examples\\webapplication4\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{84496903-2D52-44C1-B9CD-76A16D4FA055}|WebApplication3.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
@@ -35,10 +35,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
@@ -213,53 +209,54 @@
               "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\lonly\\source\\repos\\WebApplication4\\wwwroot\\js\\site.js",
+              "DocumentMoniker": "C:\\Work\\git\\web\\examples\\WebApplication4\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\lonly\\source\\repos\\WebApplication4\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Work\\git\\web\\examples\\WebApplication4\\wwwroot\\js\\site.js",
               "RelativeToolTip": "wwwroot\\js\\site.js",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-29T13:30:31.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T13:30:31.78Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "_UserDeleteModal.cshtml",
-              "DocumentMoniker": "C:\\Users\\lonly\\source\\repos\\WebApplication4\\Pages\\_UserDeleteModal.cshtml",
+              "DocumentMoniker": "C:\\Work\\git\\web\\examples\\WebApplication4\\Pages\\_UserDeleteModal.cshtml",
               "RelativeDocumentMoniker": "Pages\\_UserDeleteModal.cshtml",
-              "ToolTip": "C:\\Users\\lonly\\source\\repos\\WebApplication4\\Pages\\_UserDeleteModal.cshtml",
+              "ToolTip": "C:\\Work\\git\\web\\examples\\WebApplication4\\Pages\\_UserDeleteModal.cshtml",
               "RelativeToolTip": "Pages\\_UserDeleteModal.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-29T13:27:21.468Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T13:27:21.468Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\lonly\\source\\repos\\WebApplication4\\Pages\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Work\\git\\web\\examples\\WebApplication4\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\lonly\\source\\repos\\WebApplication4\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Work\\git\\web\\examples\\WebApplication4\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABcAAAAAAAAAAAAAACQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-29T13:19:45.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T13:19:45.588Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "User.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\lonly\\source\\repos\\WebApplication4\\Pages\\User.cshtml.cs",
+              "DocumentMoniker": "C:\\Work\\git\\web\\examples\\WebApplication4\\Pages\\User.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\User.cshtml.cs",
-              "ToolTip": "C:\\Users\\lonly\\source\\repos\\WebApplication4\\Pages\\User.cshtml.cs",
+              "ToolTip": "C:\\Work\\git\\web\\examples\\WebApplication4\\Pages\\User.cshtml.cs",
               "RelativeToolTip": "Pages\\User.cshtml.cs",
-              "ViewState": "AgIAAMcAAAAAAAAAAAAAANwAAAANAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-29T12:29:07.723Z",
               "EditorCaption": ""
@@ -268,14 +265,13 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "User.cshtml",
-              "DocumentMoniker": "C:\\Users\\lonly\\source\\repos\\WebApplication4\\Pages\\User.cshtml",
+              "DocumentMoniker": "C:\\Work\\git\\web\\examples\\WebApplication4\\Pages\\User.cshtml",
               "RelativeDocumentMoniker": "Pages\\User.cshtml",
-              "ToolTip": "C:\\Users\\lonly\\source\\repos\\WebApplication4\\Pages\\User.cshtml",
+              "ToolTip": "C:\\Work\\git\\web\\examples\\WebApplication4\\Pages\\User.cshtml",
               "RelativeToolTip": "Pages\\User.cshtml",
               "ViewState": "AgIAAHEAAAAAAAAAAAAowHoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-29T12:29:04.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T12:29:04.422Z"
             }
           ]
         },

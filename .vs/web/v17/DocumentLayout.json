@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Work\\git\\web\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\git\\web\\examples\\WebApplication4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:examples\\WebApplication4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\git\\web\\examples\\WebApplication4\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:examples\\WebApplication4\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\git\\web\\examples\\WebApplication2\\Areas\\Identity\\Data\\ApplicationContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:examples\\WebApplication2\\Areas\\Identity\\Data\\ApplicationContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\git\\web\\examples\\WebApplication2\\Areas\\Identity\\Data\\ApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:examples\\WebApplication2\\Areas\\Identity\\Data\\ApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\git\\web\\examples\\WebApplication2\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:examples\\WebApplication2\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\git\\web\\examples\\WebApplication2\\ApplicationContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:examples\\WebApplication2\\ApplicationContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\git\\web\\examples\\ex03 - bootstrap\\ex01.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:examples\\ex03 - bootstrap\\ex01.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\git\\web\\examples\\ex03 - bootstrap\\ex10.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:examples\\ex03 - bootstrap\\ex10.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -14,15 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 258,
-          "SelectedChildIndex": 45,
+          "SelectedChildIndex": 44,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
@@ -199,12 +223,107 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Work\\git\\web\\examples\\WebApplication4\\appsettings.json",
+              "RelativeDocumentMoniker": "examples\\WebApplication4\\appsettings.json",
+              "ToolTip": "C:\\Work\\git\\web\\examples\\WebApplication4\\appsettings.json",
+              "RelativeToolTip": "examples\\WebApplication4\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-19T05:51:42.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Work\\git\\web\\examples\\WebApplication4\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "examples\\WebApplication4\\appsettings.Development.json",
+              "ToolTip": "C:\\Work\\git\\web\\examples\\WebApplication4\\appsettings.Development.json",
+              "RelativeToolTip": "examples\\WebApplication4\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-19T05:51:40.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Work\\git\\web\\examples\\WebApplication2\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "examples\\WebApplication2\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "ToolTip": "C:\\Work\\git\\web\\examples\\WebApplication2\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "examples\\WebApplication2\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T05:51:25.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Work\\git\\web\\examples\\WebApplication2\\Areas\\Identity\\Data\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "examples\\WebApplication2\\Areas\\Identity\\Data\\ApplicationContext.cs",
+              "ToolTip": "C:\\Work\\git\\web\\examples\\WebApplication2\\Areas\\Identity\\Data\\ApplicationContext.cs",
+              "RelativeToolTip": "examples\\WebApplication2\\Areas\\Identity\\Data\\ApplicationContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T05:44:29.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Work\\git\\web\\examples\\WebApplication2\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "examples\\WebApplication2\\appsettings.Development.json",
+              "ToolTip": "C:\\Work\\git\\web\\examples\\WebApplication2\\appsettings.Development.json",
+              "RelativeToolTip": "examples\\WebApplication2\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-19T05:44:23.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Work\\git\\web\\examples\\WebApplication2\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "examples\\WebApplication2\\ApplicationContext.cs",
+              "ToolTip": "C:\\Work\\git\\web\\examples\\WebApplication2\\ApplicationContext.cs",
+              "RelativeToolTip": "examples\\WebApplication2\\ApplicationContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T05:43:57.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ex01.html",
+              "DocumentMoniker": "C:\\Work\\git\\web\\examples\\ex03 - bootstrap\\ex01.html",
+              "RelativeDocumentMoniker": "examples\\ex03 - bootstrap\\ex01.html",
+              "ToolTip": "C:\\Work\\git\\web\\examples\\ex03 - bootstrap\\ex01.html",
+              "RelativeToolTip": "examples\\ex03 - bootstrap\\ex01.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-19T05:43:50.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ex10.html",
               "DocumentMoniker": "C:\\Work\\git\\web\\examples\\ex03 - bootstrap\\ex10.html",
               "RelativeDocumentMoniker": "examples\\ex03 - bootstrap\\ex10.html",
               "ToolTip": "C:\\Work\\git\\web\\examples\\ex03 - bootstrap\\ex10.html",
               "RelativeToolTip": "examples\\ex03 - bootstrap\\ex10.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-10-29T10:45:45.102Z",
               "EditorCaption": ""

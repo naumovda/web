@@ -2,9 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\examples",
-    "\\examples\\ex03 - bootstrap",
-    "\\examples\\ex03 - bootstrap\\css"
+    "\\examples\\ex03 - bootstrap\\css",
+    "\\examples\\WebApplication2\\Areas",
+    "\\examples\\WebApplication2\\Areas\\Identity",
+    "\\examples\\WebApplication2\\Areas\\Identity\\Data",
+    "\\examples\\WebApplication3\\Data",
+    "\\examples\\WebApplication4"
   ],
-  "SelectedNode": "\\examples\\ex03 - bootstrap\\ex10.html",
+  "SelectedNode": "\\examples\\WebApplication4\\WebApplication3.sln",
   "PreviewInSolutionExplorer": false
 }
