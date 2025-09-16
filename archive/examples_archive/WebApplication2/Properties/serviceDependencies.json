@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:ApplicationContextConnection"
+    }
+  }
+=======
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:ApplicationContextConnection"
+    }
+  }
+>>>>>>> d05455dd19aae7050710ca60caa526629780a968
+}
