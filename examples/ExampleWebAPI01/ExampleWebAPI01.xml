@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ExampleWebAPI01</name>
+    </assembly>
+    <members>
+        <member name="M:ExampleWebAPI01.Controllers.StandartsController.Get(System.Int32)">
+             <summary>
+             Получение стандарта по идентификатору
+             </summary>
+             <param name="id">Идентификатор стандарта</param>
+             <remarks>
+             Пример запроса:
+            
+                 POST /Todo
+                 {
+                    "id" : 1, 
+                    "name" : "A4Tech Bloody B188",
+                    "price" : 111,
+                    "Type": "PeripheryAndAccessories"
+                 }
+            
+             </remarks>
+             <returns></returns>
+             <response code="200">Успешное выполнение</response>
+             <response code="404">Стандарт не найден</response>
+        </member>
+        <member name="T:ExampleWebAPI01.Models.CoatingTypeEnum">
+            <summary>
+            Тип покрытие
+            </summary>
+        </member>
+        <member name="F:ExampleWebAPI01.Models.CoatingTypeEnum.Frit">
+            <summary>
+            Окрашивание
+            </summary>
+        </member>
+        <member name="F:ExampleWebAPI01.Models.CoatingTypeEnum.Film">
+            <summary>
+            Напыление
+            </summary>
+        </member>
+        <member name="T:ExampleWebAPI01.Models.CoatingSurfaceEnum">
+            <summary>
+            Тип поверхности покрытия
+            </summary>
+        </member>
+        <member name="F:ExampleWebAPI01.Models.CoatingSurfaceEnum.Inner">
+            <summary>
+            Внутреннее покрытие
+            </summary>
+        </member>
+        <member name="F:ExampleWebAPI01.Models.CoatingSurfaceEnum.Outer">
+            <summary>
+            Внешнее покрытие
+            </summary>
+        </member>
+        <member name="T:ExampleWebAPI01.Models.Standart">
+            <summary>
+            Стандарт
+            </summary>
+        </member>
+        <member name="P:ExampleWebAPI01.Models.Standart.Id">
+            <summary>
+            Идентификатор
+            </summary>
+        </member>
+        <member name="P:ExampleWebAPI01.Models.Standart.Code">
+            <summary>
+            Код
+            </summary>
+        </member>
+        <member name="P:ExampleWebAPI01.Models.Standart.Name">
+            <summary>
+            Название
+            </summary>
+        </member>
+    </members>
+</doc>
